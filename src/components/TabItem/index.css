@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.list-item {
+  margin-right: 5px;
+}
+.button {
+  font-weight: bold;
+  color: #7b8794;
+  padding: 10px;
+  border: none;
+  border-bottom: solid 2px #7b8794;
+  background-color: transparent;
+  margin-left: 20px;
+}
+.color-change {
+  font-weight: bold;
+  color: blue;
+  border-bottom: solid 2px blue;
+  padding: 10px;
+  background-color: transparent;
+  margin-left: 20px;
+}
